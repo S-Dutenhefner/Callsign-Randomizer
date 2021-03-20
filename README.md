@@ -1,6 +1,6 @@
 # Callsign-Randomizer
 
-Simple console app to generate callsign numbers like:
+Simple console app to generate callsign numbers:
  - CSL 1111 (random number up to 9999)
  - CLS 1A
  - CLS 1AA
