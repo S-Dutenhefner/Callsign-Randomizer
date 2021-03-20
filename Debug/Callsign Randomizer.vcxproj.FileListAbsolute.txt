@@ -1,0 +1,2 @@
+E:\Google Диск\Programmierung\C++\Программы\CSRand\Callsign Randomizer\Debug\Callsign Randomizer.exe
+E:\Google Диск\Programmierung\C++\Программы\CSRand\Callsign Randomizer\Debug\Callsign Randomizer.pdb

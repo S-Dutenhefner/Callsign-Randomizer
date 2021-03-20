@@ -1,0 +1,6 @@
+﻿  callsign_randomizer.cpp
+E:\Google Диск\Programmierung\C++\Программы\CSRand\Callsign Randomizer\callsign_randomizer.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\Google Диск\Programmierung\C++\Программы\CSRand\Callsign Randomizer\callsign_randomizer.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\Google Диск\Programmierung\C++\Программы\CSRand\Callsign Randomizer\callsign_randomizer.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\Google Диск\Programmierung\C++\Программы\CSRand\Callsign Randomizer\callsign_randomizer.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Callsign Randomizer.vcxproj -> E:\Google Диск\Programmierung\C++\Программы\CSRand\Callsign Randomizer\Debug\Callsign Randomizer.exe
